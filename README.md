@@ -1,7 +1,6 @@
 # My Learning Goals for the Next 1-3 Days 
 Date:13.11.2025
-***
-My target for the next one to three days is to complete the following Python topics:
+-My target for the next one to three days is to complete the following Python topics:
 -Python Basics: Variables, Data Types, and Operators.
 -Loops: for and while.
 -Conditionals: if, elif, and else.
